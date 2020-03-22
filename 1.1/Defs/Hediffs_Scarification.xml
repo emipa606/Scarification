@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Tattooed</defName>
+    <label>tattooed</label>
+    <description>tattooed</description>
+    <initialSeverity>1</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.5</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <!-- Healed -->
+        <statOffsets>
+          <SocialImpact>0.01</SocialImpact>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.01</minSeverity>
+        <painOffset>0.05</painOffset>
+        <statOffsets>
+          <SocialImpact>0.005</SocialImpact>
+        </statOffsets>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>0.5</minSeverity>
+        <painOffset>0.2</painOffset>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <HediffDef ParentName="DiseaseBase">
+    <defName>Scarified</defName>
+    <label>scarified</label>
+    <description>scarified</description>
+    <initialSeverity>1</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.2</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <!-- Healed -->
+        <statOffsets>
+          <PainShockThreshold>0.02</PainShockThreshold>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.01</minSeverity>
+        <painOffset>0.1</painOffset>
+        <statOffsets>
+          <PainShockThreshold>0.01</PainShockThreshold>
+        </statOffsets>
+      </li>
+      <li>
+        <label>healing</label>
+        <minSeverity>0.4</minSeverity>
+        <painOffset>0.2</painOffset>
+      </li>
+      <li>
+        <label>fresh</label>
+        <minSeverity>0.8</minSeverity>
+        <painOffset>0.4</painOffset>
+      </li>
+    </stages>
+  </HediffDef>
+
+</Defs>
