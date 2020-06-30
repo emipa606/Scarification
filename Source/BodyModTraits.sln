@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyModTraits", "BodyModTraits\BodyModTraits.csproj", "{12BBB99B-4637-4967-91F3-93221069BE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BBB99B-4637-4967-91F3-93221069BE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BBB99B-4637-4967-91F3-93221069BE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BBB99B-4637-4967-91F3-93221069BE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BBB99B-4637-4967-91F3-93221069BE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E0FBE7-2D60-4C45-8BD3-44797B2DD1B8}
+	EndGlobalSection
+EndGlobal

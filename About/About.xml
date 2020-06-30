@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Scarification (Continued)</name>
-  	<packageId>Mlie.Scarification</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/Scarification</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of noodleboxs mod for RimWorld 1.1
+  <name>Scarification (Continued)</name>
+  <packageId>Mlie.Scarification</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/Scarification</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of noodleboxs mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1843703940
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
