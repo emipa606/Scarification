@@ -5,6 +5,7 @@
     <label>tattooed</label>
     <initialSeverity>1</initialSeverity>
     <minSeverity>0.001</minSeverity>
+    <isBad>false</isBad>
     <comps>
       <li Class="HediffCompProperties_SeverityPerDay">
         <severityPerDay>-0.5</severityPerDay>
@@ -37,6 +38,7 @@
     <label>scarified</label>
     <initialSeverity>1</initialSeverity>
     <minSeverity>0.001</minSeverity>
+    <isBad>false</isBad>
     <comps>
       <li Class="HediffCompProperties_SeverityPerDay">
         <severityPerDay>-0.2</severityPerDay>
