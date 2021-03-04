@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Tattoo.label>tattoo</Tattoo.label>
   <Tattoo.description>Tattoo an abstract design on a body part. Once healed, provides a slight boost to social interactions.</Tattoo.description>
   <Tattoo.jobString>Tattooing body part.</Tattoo.jobString>
-
   <Scarify.label>scarify</Scarify.label>
   <Scarify.description>Scarify body part. A very painful procedure that increases pain tolerance after several days of healing.</Scarify.description>
   <Scarify.jobString>Scarifying body part.</Scarify.jobString>
-
-
 </LanguageData>
