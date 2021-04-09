@@ -10,7 +10,9 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>syrchalis.traitvalue</li>
+  </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of noodleboxs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1843703940
@@ -93,6 +95,6 @@ These procedures are painful and require some time to heal before bonuses appear
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
+
 </description>
 </ModMetaData>
-
