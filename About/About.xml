@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Scarification (Continued)</name>
   <packageId>Mlie.Scarification</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
@@ -18,8 +19,9 @@ Update of noodleboxs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1843703940
 
 - Added traits for body-mod enthusiast and body-mod purist
-  These are also compatible with the EM Tattoos and Piercings-mod 
-  https://steamcommunity.com/sharedfiles/filedetails/?id=2030227116
+  These are also compatible with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2030227116]EM Tattoos and Piercings-mod[/url]
+- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
+  
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
