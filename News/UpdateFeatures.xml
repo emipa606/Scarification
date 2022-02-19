@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="Mlie_UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="Scarification_UpdateFeatureBase">
     <modNameReadable>Scarification</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2031643134</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="Mlie_UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="Scarification_UpdateFeatureBase">
     <defName>Scarification_1_0_1_0</defName>
     <assemblyVersion>1.0.1.0</assemblyVersion>
     <content>There is now two added traits similar to the Transhumanist and Body Purist traits but instead focused on body-modifications. These act the same way where as a body-mod enthusiast would like to have esthetical body-modifications and the body-mod purist does not.
