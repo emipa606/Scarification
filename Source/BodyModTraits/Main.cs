@@ -1,13 +1,12 @@
 ﻿using Verse;
 
-namespace BodyModTraits
+namespace BodyModTraits;
+
+[StaticConstructorOnStartup]
+internal static class Main
 {
-    [StaticConstructorOnStartup]
-    internal static class Main
+    static Main()
     {
-        static Main()
-        {
-            Internal.updateHediffs();
-        }
+        Internal.updateHediffs();
     }
 }

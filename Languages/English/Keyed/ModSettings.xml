@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Scar.modsAreBad>Count modifications as bad</Scar.modsAreBad>
+  <Scar.modsAreBad.tooltip>If defined as bad, healing serums and similar items can remove them</Scar.modsAreBad.tooltip>
+  <Scar.version>Installed mod-version: {0}</Scar.version>
+</LanguageData>

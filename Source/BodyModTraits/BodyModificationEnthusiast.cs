@@ -1,8 +1,7 @@
 ﻿using RimWorld;
 
-namespace BodyModTraits
+namespace BodyModTraits;
+
+internal class BodyModificationEnthusiast : TraitDef
 {
-    internal class BodyModificationEnthusiast : TraitDef
-    {
-    }
 }
