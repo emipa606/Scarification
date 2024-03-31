@@ -27,13 +27,13 @@ internal class BodyModTraitsMod : Mod
     {
         instance = this;
         currentVersion =
-            VersionFromManifest.GetVersionFromModMetaData(ModLister.GetActiveModWithIdentifier("Mlie.Scarification"));
+            VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 
     /// <summary>
     ///     The instance-settings for the mod
     /// </summary>
-    private BodyModTraitsSettings Settings
+    public BodyModTraitsSettings Settings
     {
         get
         {

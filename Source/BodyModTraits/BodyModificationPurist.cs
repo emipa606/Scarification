@@ -2,6 +2,4 @@
 
 namespace BodyModTraits;
 
-internal class BodyModificationPurist : TraitDef
-{
-}
+internal class BodyModificationPurist : TraitDef;
