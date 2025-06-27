@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: body-mod enthusiast appreciation -->
+  <BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-0.label>body-mod enthusiast appreciation</BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-0.label>
+  <!-- EN: body-mod enthusiast appreciation -->
+  <BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-1.label>body-mod enthusiast appreciation</BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-1.label>
+  <!-- EN: body-mod enthusiast appreciation -->
+  <BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-2.label>body-mod enthusiast appreciation</BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-2.label>
+  <!-- EN: body-mod enthusiast appreciation -->
+  <BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-3.label>body-mod enthusiast appreciation</BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-3.label>
+  <!-- EN: body-mod enthusiast appreciation -->
+  <BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-4.label>body-mod enthusiast appreciation</BodyModificationEnthusiastAppreciation.stages.bodymod_enthusiast_appreciation-4.label>
+  <!-- EN: body-mod enthusiast pleased -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_pleased.label>body-mod enthusiast pleased</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_pleased.label>
+  <!-- EN: I want more! -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_pleased.description>I want more!</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_pleased.description>
+  <!-- EN: body-mod enthusiast quite pleased -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_quite_pleased.label>body-mod enthusiast quite pleased</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_quite_pleased.label>
+  <!-- EN: Some say 'your body is a temple', mine is a canvas. -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_quite_pleased.description>Some say 'your body is a temple', mine is a canvas.</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_quite_pleased.description>
+  <!-- EN: body-mod enthusiast delighted -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_delighted.label>body-mod enthusiast delighted</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_delighted.label>
+  <!-- EN: I am walking art! -->
+  <BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_delighted.description>I am walking art!</BodyModificationEnthusiastHappy.stages.bodymod_enthusiast_delighted.description>
+  <!-- EN: body-mod enthusiast frustrated -->
+  <BodyModificationEnthusiastNoMod.stages.bodymod_enthusiast_frustrated.label>body-mod enthusiast frustrated</BodyModificationEnthusiastNoMod.stages.bodymod_enthusiast_frustrated.label>
+  <!-- EN: My skin is all empty, I need to express myself on it! -->
+  <BodyModificationEnthusiastNoMod.stages.bodymod_enthusiast_frustrated.description>My skin is all empty, I need to express myself on it!</BodyModificationEnthusiastNoMod.stages.bodymod_enthusiast_frustrated.description>
+  <!-- EN: body-mod purist disgust -->
+  <BodyModificationPuristDisgust.stages.bodymod_purist_disgust-0.label>body-mod purist disgust</BodyModificationPuristDisgust.stages.bodymod_purist_disgust-0.label>
+  <!-- EN: body-mod purist disgust -->
+  <BodyModificationPuristDisgust.stages.bodymod_purist_disgust-1.label>body-mod purist disgust</BodyModificationPuristDisgust.stages.bodymod_purist_disgust-1.label>
+  <!-- EN: body-mod purist disgust -->
+  <BodyModificationPuristDisgust.stages.bodymod_purist_disgust-2.label>body-mod purist disgust</BodyModificationPuristDisgust.stages.bodymod_purist_disgust-2.label>
+  <!-- EN: body-mod purist disgust -->
+  <BodyModificationPuristDisgust.stages.bodymod_purist_disgust-3.label>body-mod purist disgust</BodyModificationPuristDisgust.stages.bodymod_purist_disgust-3.label>
+  <!-- EN: body-mod purist disgust -->
+  <BodyModificationPuristDisgust.stages.bodymod_purist_disgust-4.label>body-mod purist disgust</BodyModificationPuristDisgust.stages.bodymod_purist_disgust-4.label>
+  <!-- EN: body-mod purist squeamish -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_squeamish.label>body-mod purist squeamish</BodyModificationPuristUnhappy.stages.bodymod_purist_squeamish.label>
+  <!-- EN: I hate this thing on my skin, its not right! -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_squeamish.description>I hate this thing on my skin, its not right!</BodyModificationPuristUnhappy.stages.bodymod_purist_squeamish.description>
+  <!-- EN: body-mod purist disgusted -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_disgusted.label>body-mod purist disgusted</BodyModificationPuristUnhappy.stages.bodymod_purist_disgusted.label>
+  <!-- EN: Please remove this hideus filth from me. -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_disgusted.description>Please remove this hideus filth from me.</BodyModificationPuristUnhappy.stages.bodymod_purist_disgusted.description>
+  <!-- EN: body-mod purist violated -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_violated.label>body-mod purist violated</BodyModificationPuristUnhappy.stages.bodymod_purist_violated.label>
+  <!-- EN: I feel like I'm suffocating, these things are strangulating my skin! -->
+  <BodyModificationPuristUnhappy.stages.bodymod_purist_violated.description>I feel like I'm suffocating, these things are strangulating my skin!</BodyModificationPuristUnhappy.stages.bodymod_purist_violated.description>
+</LanguageData>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef ParentName="SurgeryFlesh">
+    <defName>Tattoo</defName>
+    <label>tattoo</label>
+    <description>Tattoo an abstract design on a body part. Once healed, provides a slight boost to social interactions.</description>
+    <workerClass>Recipe_InstallImplant</workerClass>
+    <jobString>Tattooing body part.</jobString>
+    <anesthetize>false</anesthetize>
+    <workAmount>2400</workAmount>
+    <surgerySuccessChanceFactor>1.8</surgerySuccessChanceFactor>
+    <skillRequirements>
+      <Artistic>2</Artistic>
+    </skillRequirements>
+    <workSkill>Artistic</workSkill>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Arm</li>
+      <li>Leg</li>
+      <li>Torso</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Tattooed</addsHediff>
+    <recipeUsers>
+      <li>Human</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef ParentName="SurgeryFlesh">
+    <defName>Scarify</defName>
+    <label>scarify</label>
+    <description>Scarify body part. A very painful procedure that increases pain tolerance after several days of healing.</description>
+    <workerClass>Recipe_InstallImplant</workerClass>
+    <jobString>Scarifying body part.</jobString>
+    <anesthetize>false</anesthetize>
+    <workAmount>3600</workAmount>
+    <surgerySuccessChanceFactor>1.4</surgerySuccessChanceFactor>
+    <skillRequirements>
+      <Artistic>4</Artistic>
+    </skillRequirements>
+    <workSkill>Artistic</workSkill>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Arm</li>
+      <li>Leg</li>
+      <li>Torso</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>Scarified</addsHediff>
+    <recipeUsers>
+      <li>Human</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: body-mod enthusiast -->
+  <BodyModificationEnthusiast.degreeDatas.bodymod_enthusiast.label>body-mod enthusiast</BodyModificationEnthusiast.degreeDatas.bodymod_enthusiast.label>
+  <!-- EN: Some people cook lavish meals for a creative outlet, some write symphonies, some paint or sculpt masterpieces. [PAWN_nameDef] feels the ultimate form of self expression comes from visual skin alterations. -->
+  <BodyModificationEnthusiast.degreeDatas.bodymod_enthusiast.description>Some people cook lavish meals for a creative outlet, some write symphonies, some paint or sculpt masterpieces. [PAWN_nameDef] feels the ultimate form of self expression comes from visual skin alterations.</BodyModificationEnthusiast.degreeDatas.bodymod_enthusiast.description>
+  <!-- EN: body-mod purist -->
+  <BodyModificationPurist.degreeDatas.bodymod_purist.label>body-mod purist</BodyModificationPurist.degreeDatas.bodymod_purist.label>
+  <!-- EN: [PAWN_nameDef] feels that the body is ment to be kept as it is and has a great dislike of any esthetical modifications. -->
+  <BodyModificationPurist.degreeDatas.bodymod_purist.description>[PAWN_nameDef] feels that the body is ment to be kept as it is and has a great dislike of any esthetical modifications.</BodyModificationPurist.degreeDatas.bodymod_purist.description>
+</LanguageData>

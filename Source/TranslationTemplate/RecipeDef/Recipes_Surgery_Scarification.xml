@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: scarify -->
+  <Scarify.label>scarify</Scarify.label>
+  <!-- EN: Scarify body part. A very painful procedure that increases pain tolerance after several days of healing. -->
+  <Scarify.description>Scarify body part. A very painful procedure that increases pain tolerance after several days of healing.</Scarify.description>
+  <!-- EN: Scarifying body part. -->
+  <Scarify.jobString>Scarifying body part.</Scarify.jobString>
+  <!-- EN: tattoo -->
+  <Tattoo.label>tattoo</Tattoo.label>
+  <!-- EN: Tattoo an abstract design on a body part. Once healed, provides a slight boost to social interactions. -->
+  <Tattoo.description>Tattoo an abstract design on a body part. Once healed, provides a slight boost to social interactions.</Tattoo.description>
+  <!-- EN: Tattooing body part. -->
+  <Tattoo.jobString>Tattooing body part.</Tattoo.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>BodyModificationEnthusiast</defName>
+    <commonality>0.9</commonality>
+    <degreeDatas>
+      <li>
+        <label>body-mod enthusiast</label>
+        <description>Some people cook lavish meals for a creative outlet, some write symphonies, some paint or sculpt masterpieces. [PAWN_nameDef] feels the ultimate form of self expression comes from visual skin alterations.</description>
+      </li>
+    </degreeDatas>
+    <conflictingTraits>
+      <li>BodyModificationPurist</li>
+    </conflictingTraits>
+  </TraitDef>
+  <TraitDef>
+    <defName>BodyModificationPurist</defName>
+    <commonality>0.7</commonality>
+    <degreeDatas>
+      <li>
+        <label>body-mod purist</label>
+        <description>[PAWN_nameDef] feels that the body is ment to be kept as it is and has a great dislike of any esthetical modifications.</description>
+      </li>
+    </degreeDatas>
+    <conflictingTraits>
+      <li>BodyModificationEnthusiast</li>
+    </conflictingTraits>
+  </TraitDef>
+</Defs>

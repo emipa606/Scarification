@@ -7,6 +7,6 @@ internal static class Main
 {
     static Main()
     {
-        Internal.updateHediffs();
+        Internal.UpdateHediffs();
     }
 }

@@ -10,7 +10,7 @@ internal class BodyModTraitsMod : Mod
     /// <summary>
     ///     The instance of the settings to be read by the mod
     /// </summary>
-    public static BodyModTraitsMod instance;
+    public static BodyModTraitsMod Instance;
 
     private static string currentVersion;
 
@@ -25,7 +25,7 @@ internal class BodyModTraitsMod : Mod
     /// <param name="content"></param>
     public BodyModTraitsMod(ModContentPack content) : base(content)
     {
-        instance = this;
+        Instance = this;
         currentVersion =
             VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
@@ -37,10 +37,7 @@ internal class BodyModTraitsMod : Mod
     {
         get
         {
-            if (settings == null)
-            {
-                settings = GetSettings<BodyModTraitsSettings>();
-            }
+            settings ??= GetSettings<BodyModTraitsSettings>();
 
             return settings;
         }
@@ -63,26 +60,26 @@ internal class BodyModTraitsMod : Mod
     /// <param name="rect"></param>
     public override void DoSettingsWindowContents(Rect rect)
     {
-        var listing_Standard = new Listing_Standard();
-        listing_Standard.Begin(rect);
-        listing_Standard.Gap();
-        listing_Standard.CheckboxLabeled("Scar.modsAreBad".Translate(), ref Settings.IsBad,
+        var listingStandard = new Listing_Standard();
+        listingStandard.Begin(rect);
+        listingStandard.Gap();
+        listingStandard.CheckboxLabeled("Scar.modsAreBad".Translate(), ref Settings.IsBad,
             "Scar.modsAreBad.tooltip".Translate());
-        listing_Standard.Gap();
+        listingStandard.Gap();
         if (currentVersion != null)
         {
-            listing_Standard.Gap();
+            listingStandard.Gap();
             GUI.contentColor = Color.gray;
-            listing_Standard.Label("Scar.version".Translate(currentVersion));
+            listingStandard.Label("Scar.version".Translate(currentVersion));
             GUI.contentColor = Color.white;
         }
 
-        listing_Standard.End();
+        listingStandard.End();
     }
 
     public override void WriteSettings()
     {
         base.WriteSettings();
-        Internal.updateHediffs();
+        Internal.UpdateHediffs();
     }
 }

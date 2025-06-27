@@ -27,7 +27,7 @@ public class ThoughtWorker_BodyModificationPuristDisgust : ThoughtWorker
             return false;
         }
 
-        var num = Internal.countBodyMods(other.health.hediffSet);
+        var num = Internal.CountBodyMods(other.health.hediffSet);
         return num > 0 ? ThoughtState.ActiveAtStage(num - 1) : false;
     }
 }

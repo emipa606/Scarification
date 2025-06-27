@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: scarified -->
+  <Scarified.label>scarified</Scarified.label>
+  <!-- EN: scarified -->
+  <Scarified.description>scarified</Scarified.description>
+  <!-- EN: healing -->
+  <Scarified.stages.healing-0.label>healing</Scarified.stages.healing-0.label>
+  <!-- EN: healing -->
+  <Scarified.stages.healing-1.label>healing</Scarified.stages.healing-1.label>
+  <!-- EN: fresh -->
+  <Scarified.stages.fresh.label>fresh</Scarified.stages.fresh.label>
+  <!-- EN: tattooed -->
+  <Tattooed.label>tattooed</Tattooed.label>
+  <!-- EN: tattooed -->
+  <Tattooed.description>tattooed</Tattooed.description>
+  <!-- EN: healing -->
+  <Tattooed.stages.healing.label>healing</Tattooed.stages.healing.label>
+  <!-- EN: fresh -->
+  <Tattooed.stages.fresh.label>fresh</Tattooed.stages.fresh.label>
+</LanguageData>

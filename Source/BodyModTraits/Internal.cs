@@ -6,7 +6,7 @@ namespace BodyModTraits;
 
 public static class Internal
 {
-    public static int countBodyMods(HediffSet hediffSet)
+    public static int CountBodyMods(HediffSet hediffSet)
     {
         var num = 0;
         var hediffs = hediffSet.hediffs;
@@ -29,7 +29,7 @@ public static class Internal
         return num;
     }
 
-    public static void updateHediffs()
+    public static void UpdateHediffs()
     {
         var listOfHediffs = new List<string> { "Tattooed", "Scarified" };
         var hediffs = from HediffDef hediff in DefDatabase<HediffDef>.AllDefsListForReading
@@ -37,7 +37,7 @@ public static class Internal
             select hediff;
         foreach (var hediffDef in hediffs)
         {
-            hediffDef.isBad = BodyModTraitsMod.instance.Settings.IsBad;
+            hediffDef.isBad = BodyModTraitsMod.Instance.Settings.IsBad;
         }
     }
 }
